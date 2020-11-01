@@ -59,11 +59,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+<p>
 <a href="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_1.jpg"><img src="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_1.jpg" align="left" height="250" width="250" ></a>
 <a href="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_2.jpg"><img src="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_2.jpg" align="left" height="250" width="250" ></a>
 <a href="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_3.jpg"><img src="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_3.jpg" align="left" height="250" width="250" ></a>
-
+</p>
 
 
 
