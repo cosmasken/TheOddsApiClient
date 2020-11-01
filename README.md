@@ -60,7 +60,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![name-of-you-image](https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_2.jpg)
+<a href="url"><img src="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_1.jpg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_2.jpg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_3.jpg" align="left" height="48" width="48" ></a>
+
 
 
 
