@@ -62,15 +62,11 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`harambeeapps`, `TheOddsApiClient`, `harambeeapps`, `cosmasken@harambeeapps.co.ke`
-
 
 ### Built With
 
-* []()
-* []()
+* [Retrofit]()
+* [Gson]()
 * []()
 
 
@@ -145,10 +141,9 @@ Project Link: [https://github.com/harambeeapps/TheOddsApiClient](https://github.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [https://the-odds-api.com/]()
 
+* [www.jsonschema2pojo.org]()
 
 
 
