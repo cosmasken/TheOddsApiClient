@@ -60,7 +60,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_1.jpg](https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_1.jpg)
+ <a href="https://github.com/harambeeapps/TheOddsApiClient">
+    <img src="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_1.jpg" alt="Logo">
+  </a>
 
 [https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_1.jpg](https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_2.jpg)
 
