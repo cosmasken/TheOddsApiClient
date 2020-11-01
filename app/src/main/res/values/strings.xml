@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">TheOddsApiClient</string>
+    <string name="tagline">Odds</string>
+    <!-- app social site links section -->
+    <!-- app ad section -->
+
+
+    <string name="app_ad_id">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!-- end of the ad section -->
+    <string name="developer_detail">Harambeeapps.co.ke</string>
+
+    <string name="developer_message">App made by Cosmas Ken for harambeeapps.The app is free and the source code is open source.If you like this app, please give it a good rating, share with friends and show your support to us.</string>
+
+
+    <string name="facebook_url">https://www.facebook.com/</string>
+
+    <string name="youtube_url">https://www.youtube.com/harambeeappstutorials/</string>
+
+    <string name="twitter_user_id">891327385</string>
+    <!-- find your user id from here: http://gettwitterid.com/ -->
+
+    <string name="twitter_url">https://twitter.com/</string>
+
+    <string name="google_plus_url">https://plus.google.com/</string>
+    <string name="share_text">I found a great app for you\nInstall App from:</string>
+    <string name="developer_page">https://play.google.com/store/apps/developer?id=HarambeeApps</string>
+    <string name="connect">Connect</string>
+    <string name="no_internet">No internet connection is available!</string>
+    <string name="tapAgain">Tap again to exit!</string>
+
+    <string name="home">HOME</string>
+    <string name="draw">X</string>
+    <string name="away">AWAY</string>
+    <string name="settings">Settings</string>
+    <string name="about_dev">About Developer</string>
+    <string name="social">Social</string>
+    <string name="youtube">Youtube</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="google_plus">Google Plus</string>
+    <string name="others">Others</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+    <string name="exit">Exit</string>
+    <string name="developer">Developer</string>
+    <string name="openDrawer">Open Drawer</string>
+
+    <string name="closeDrawer">Close Drawer</string>
+
+    <string name="close_prompt">Are you sure you want to close the app?</string>
+
+    <string name="yes">Yes</string>
+
+    <string name="no">No</string>
+
+    <string name="rate_title">Rate This App</string>
+
+    <string name="rate_message">If you enjoy using this app, would you mind taking a moment to rate it 5 stars?It won\'t take more than a minute. Thank you for your support!</string>
+
+    <string name="rate_positive">rate now</string>
+
+    <string name="rate_remind_later">Later</string>
+
+    <string name="rate_never">No, Thanks</string>
+
+    <string name="more_app">Moe</string>
+    <string name="home_team_placeholder">Home Team PlaceHolder</string>
+    <string name="away_team_placeholder">Away Team PlaceHolder</string>
+    <string name="SportPlaceholder">NFL</string>
+    <string name="commencetime">16:00</string>
+</resources>

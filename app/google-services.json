@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "716673695008",
+    "firebase_url": "https://oddsaapiclient.firebaseio.com",
+    "project_id": "oddsaapiclient",
+    "storage_bucket": "oddsaapiclient.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716673695008:android:77bb70826b34b6b2b32b45",
+        "android_client_info": {
+          "package_name": "com.harambeeapps.theoddsapiclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716673695008-haubq1omg3qchrpt2n3ilmuk60l0miou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfYPKfZNeka4Uqeyb_TsqB6Wvl9SDynkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716673695008-haubq1omg3qchrpt2n3ilmuk60l0miou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

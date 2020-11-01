@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="winColor">#22BB29</color>
+    <color name="drawColor">#7E7A7C</color>
+
+    <!--Common colors-->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="default_background">#EEEEEE</color>
+
+
+    <color name="toolbar_boarder">#e5e6ea</color>
+</resources>

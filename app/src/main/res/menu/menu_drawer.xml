@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/action_home"
+            android:icon="@drawable/sports"
+            android:title="@string/home" />
+
+        <item
+            android:id="@+id/action_about_dev"
+            android:icon="@drawable/ic_developer"
+            android:title="@string/about_dev" />
+
+    </group>
+
+    <item android:title="@string/social">
+        <menu>
+            <item
+                android:id="@+id/action_youtube"
+                android:icon="@drawable/ic_youtube"
+                android:visible="false"
+                android:title="@string/youtube" />
+
+            <item
+                android:id="@+id/action_facebook"
+                android:icon="@drawable/ic_facebook"
+                android:visible="false"
+                android:title="@string/facebook" />
+
+            <item
+                android:id="@+id/action_twitter"
+                android:icon="@drawable/ic_twitter"
+                android:visible="false"
+                android:title="@string/twitter" />
+
+            <item
+                android:id="@+id/action_google_plus"
+                android:icon="@drawable/ic_google_plus"
+                android:visible="false"
+                android:title="@string/google_plus" />
+
+        </menu>
+    </item>
+
+    <item android:title="@string/others">
+        <menu>
+
+            <item
+                android:id="@+id/action_share"
+                android:icon="@drawable/ic_share"
+                android:title="@string/share" />
+
+            <item
+                android:id="@+id/action_rate_app"
+                android:icon="@drawable/ic_rating"
+                android:title="@string/rate" />
+
+            <item
+                android:id="@+id/action_more_app"
+                android:icon="@drawable/ic_bag"
+                android:visible="false"
+                android:title="@string/more_app" />
+
+            <item
+                android:id="@+id/action_exit"
+                android:icon="@drawable/ic_exit"
+                android:title="@string/exit" />
+        </menu>
+    </item>
+
+</menu>
