@@ -93,7 +93,11 @@ git clone https://github.com/harambeeapps/TheOddsApiClient.git
 <!-- USAGE EXAMPLES -->
 ## Usage
 
- ![GitHub Logo](/images/Screenshot_1.jpg)
+ ![SCREENSHOT](/Screenshot_1.jpg)
+Format: ![Alt Text](url)
+ ![SCREENSHOT](/Screenshot_2.jpg)
+Format: ![Alt Text](url)
+ ![SCREENSHOT](/Screenshot_3.jpg)
 Format: ![Alt Text](url)
 
 
