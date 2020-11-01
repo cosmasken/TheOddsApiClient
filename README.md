@@ -94,12 +94,6 @@ npm install npm@latest -g
 ```sh
 git clone https://github.com/harambeeapps/TheOddsApiClient.git
 ```
-2. Install NPM packages
-```sh
-npm install
-```
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
