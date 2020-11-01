@@ -93,12 +93,8 @@ git clone https://github.com/harambeeapps/TheOddsApiClient.git
 <!-- USAGE EXAMPLES -->
 ## Usage
 
- ![SCREENSHOT](/Screenshot_1.jpg)
-Format: ![Alt Text](url)
- ![SCREENSHOT](/Screenshot_2.jpg)
-Format: ![Alt Text](url)
- ![SCREENSHOT](/Screenshot_3.jpg)
-Format: ![Alt Text](url)
+
+<img src="/Screenshot_3.jpg" alt="drawing" style="width:200px;"/>
 
 
 
