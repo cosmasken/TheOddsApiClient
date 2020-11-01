@@ -94,7 +94,7 @@ git clone https://github.com/harambeeapps/TheOddsApiClient.git
 ## Usage
 
 
-<img src="/Screenshot_3.jpg" alt="drawing" style="width:200px;"/>
+<img src="/Screenshot_3.jpg" alt="drawing" width="150"/>
 
 
 
