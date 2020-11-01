@@ -65,9 +65,9 @@
 
 ### Built With
 
-* [Retrofit]()
-* [Gson]()
-* []()
+* Retrofit
+* Gson
+
 
 
 
@@ -79,10 +79,8 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+* Android Studio
+
 
 ### Installation
 
@@ -90,7 +88,9 @@ npm install npm@latest -g
 ```sh
 git clone https://github.com/harambeeapps/TheOddsApiClient.git
 ```
+2.Build the project
 
+3.Replace the json file app/google-services.json with your own file in case you want to use firebase functionality .
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -161,5 +161,5 @@ Project Link: [https://github.com/harambeeapps/TheOddsApiClient](https://github.
 [license-shield]: https://img.shields.io/github/license/harambeeapps/repo.svg?style=flat-square
 [license-url]: https://github.com/harambeeapps/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/harambeeapps
+[linkedin-url]: https://linkedin.com/in/cosmasarubaken
 [product-screenshot]: images/screenshot.png
