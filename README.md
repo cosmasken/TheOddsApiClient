@@ -60,7 +60,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_1.jpg)
+
+[![Product Name Screen Shot][product-screenshot]](https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_2.jpg)
+
+[![Product Name Screen Shot][product-screenshot]](https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_3.jpg)
 
 
 ### Built With
