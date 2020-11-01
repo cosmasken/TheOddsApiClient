@@ -60,9 +60,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<a href="TheOddsApiClient/blob/master/Screenshot_1.jpg"><img src="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_1.jpg" align="left" height="48" width="48" ></a>
-<a href="url"><img src="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_2.jpg" align="left" height="48" width="48" ></a>
-<a href="url"><img src="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_3.jpg" align="left" height="48" width="48" ></a>
+<a href="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_1.jpg"><img src="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_1.jpg" align="left" height="48" width="48" ></a>
+<a href="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_2.jpg"><img src="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_2.jpg" align="left" height="48" width="48" ></a>
+<a href="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_3.jpg"><img src="https://github.com/harambeeapps/TheOddsApiClient/blob/master/Screenshot_3.jpg" align="left" height="48" width="48" ></a>
 
 
 
