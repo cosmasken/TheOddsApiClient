@@ -134,7 +134,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@harambeeapps](https://twitter.com/harambeeapps) - cosmasken@harambeeapps.co.ke
+HarambeeApps - [@harambeeapps](https://twitter.com/harambeeapps) - android@harambeeapps.co.ke
+
+Cosmas Aruba Ken - [@cosmasaruba](https://twitter.com/cosmasaruba) - cosmasken@harambeeapps.co.ke
 
 Project Link: [https://github.com/harambeeapps/TheOddsApiClient](https://github.com/harambeeapps/TheOddsApiClient)
 
