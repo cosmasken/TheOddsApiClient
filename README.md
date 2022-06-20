@@ -131,9 +131,9 @@ Distributed under the GNU GENERAL PUBLIC LICENSE V3
 <!-- CONTACT -->
 ## Contact
 
-HarambeeApps - [@harambeeapps](https://twitter.com/harambeeapps) - android@harambeeapps.co.ke
+HarambeeApps - [@harambeeapps](https://twitter.com/harambeeapps)
 
-Cosmas Aruba Ken - [@cosmasaruba](https://twitter.com/cosmasaruba) - cosmasken@harambeeapps.co.ke
+Cosmas Aruba Ken - [@cosmasaruba](https://twitter.com/cosmasaruba) - cosmasarubaken@gmail.com
 
 Project Link: [https://github.com/harambeeapps/TheOddsApiClient](https://github.com/harambeeapps/TheOddsApiClient)
 
