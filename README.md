@@ -18,8 +18,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/harambeeapps/TheOddsApiClient">
-    <img src="https://github.com/harambeeapps/TheOddsApiClient/blob/master/app/src/main/res/drawable/sports.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/cosmasken/TheOddsApiClient">
+    <img src="https://github.com/cosmasken/TheOddsApiClient/blob/master/app/src/main/res/drawable/sports.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">TheOddsApiClient</h3>
@@ -27,14 +27,14 @@
   <p align="center">
     An android client for https://the-odds-api.com/
     <br />
-    <a href="https://github.com/harambeeapps/TheOddsApiClient"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/cosmasken/TheOddsApiClient"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/harambeeapps/TheOddsApiClient">View Demo</a>
+    <a href="https://github.com/cosmasken/TheOddsApiClient">View Demo</a>
     ·
-    <a href="https://github.com/harambeeapps/TheOddsApiClient/issues">Report Bug</a>
+    <a href="https://github.com/cosmasken/TheOddsApiClient/issues">Report Bug</a>
     ·
-    <a href="https://github.com/harambeeapps/TheOddsApiClient/issues">Request Feature</a>
+    <a href="https://github.com/cosmasken/TheOddsApiClient/issues">Request Feature</a>
   </p>
 
 
@@ -85,7 +85,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
 ```sh
-git clone https://github.com/harambeeapps/TheOddsApiClient.git
+git clone https://github.com/cosmasken/TheOddsApiClient.git
 ```
 2.Build the project
 
@@ -105,7 +105,7 @@ git clone https://github.com/harambeeapps/TheOddsApiClient.git
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/harambeeapps/TheOddsApiClient/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/cosmasken/TheOddsApiClient/issues) for a list of proposed features (and known issues).
 
 
 
@@ -135,7 +135,7 @@ HarambeeApps - [@harambeeapps](https://twitter.com/harambeeapps)
 
 Cosmas Aruba Ken - [@cosmasaruba](https://twitter.com/cosmasaruba) - cosmasarubaken@gmail.com
 
-Project Link: [https://github.com/harambeeapps/TheOddsApiClient](https://github.com/harambeeapps/TheOddsApiClient)
+Project Link: [https://github.com/cosmasken/TheOddsApiClient](https://github.com/harambeeapps/TheOddsApiClient)
 
 
 
